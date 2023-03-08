@@ -39,7 +39,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PramodTejra&theme=dark&background=000000)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PramodTejra&theme=tokyonight)<br>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PramodTejra)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Pramod's GitHub stats](https://github-readme-stats.vercel.app/api?username=PramodTejra)](https://github.com/anuraghazra/github-readme-stats)<br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Pramod's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PramodTejra&theme=react)](https://github.com/PramodTejra/github-readme-activity-graph)
 
