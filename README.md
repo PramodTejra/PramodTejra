@@ -59,7 +59,7 @@
 
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/PramodTejra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PramodTejra&show_icons=true&locale=en&theme=algolia"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=PramodTejra&show_icons=true&locale=en&layout=compact&theme=algolia"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PramodTejra&theme=algolia" alt="akshatjalan" />
