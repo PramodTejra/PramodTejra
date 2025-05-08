@@ -62,7 +62,7 @@
 <a href="https://github.com/PramodTejra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PramodTejra&show_icons=true&locale=en&theme=algolia"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=PramodTejra&show_icons=true&locale=en&layout=compact&theme=algolia"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=PramodTejra&theme=algolia" alt="PramodTejra" />
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=PramodTejra&theme=algolia" alt="PramodTejra" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PramodTejra&theme=algolia" alt="PramodTejra" />
 </a>
 </p>
